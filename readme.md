@@ -1,6 +1,6 @@
 # Pisces P100 → Standard LoRa Gateway Conversion
 
-> Whether you’re a developer or hobbyist, this repository provides everything you need to transform your Pisces P100 device into a standard SX1302‑based LoRa gateway—reset pinout may vary by hardware revision.
+> This repository does not provide everything you need to convert your Pisces P100 to a standard SX1302 based LoRa gateway!!!
 > For a hassle‑free solution, prebuilt firmware ISO packages (with all pin and configuration settings preconfigured) are also available for purchase.
 > **Inquiries & Sales:** [mertzkul@gmail.com](mailto:mertzkul@gmail.com)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Project Overview
 
-This **pisces-p100-sx1302-hal** repository adapts Semtech’s SX1302/SX1303 Hardware Abstraction Layer (HAL) library for the Pisces P100 platform. You’ll find modular components for both USB‑ and SPI‑based gateways, utilities for calibration and control, and example applications to get you up and running quickly.
+This **pisces-p100-sx1302-hal** repository adapts Semtech's SX1302/SX1303 Hardware Abstraction Layer (HAL) library for the Pisces P100 platform. Used for testing and may not work directly on pisces p100. If you are a software developer, you can develop your own firmware based on this. If you don't want to bother, you can contact me.
 
 Key components:
 
